@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/morfoApp/static/css/main.6bd1eabd.css",
+    "main.js": "/morfoApp/static/js/main.3363f87f.js",
+    "static/js/453.c75c5597.chunk.js": "/morfoApp/static/js/453.c75c5597.chunk.js",
+    "index.html": "/morfoApp/index.html",
+    "main.6bd1eabd.css.map": "/morfoApp/static/css/main.6bd1eabd.css.map",
+    "main.3363f87f.js.map": "/morfoApp/static/js/main.3363f87f.js.map",
+    "453.c75c5597.chunk.js.map": "/morfoApp/static/js/453.c75c5597.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd1eabd.css",
+    "static/js/main.3363f87f.js"
+  ]
+}
